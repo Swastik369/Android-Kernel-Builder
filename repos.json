@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
       "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "repo": "https://github.com/Swastik369/kernel-mtk",
+      "branch": "MMI-S3RWBS32.125-29-2-4-3",
+      "device": "coful"
     },
     "withKernelSU": true,
     "toolchains": [
